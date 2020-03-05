@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/plugins/docker.folder.plg</PluginURL>
+<PluginAuthor>GuildDarts</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System</Category>
+<Name>Docker Folder</Name>
+<Description>
+Docker Folder lets you create folders for docker containers to help with organization. Especially useful if you're using docker-compose.‏‏‎
+Getting Started: A new button named "add folder" will appear at the bottom of the docker tab next to "add container"
+</Description>
+<Icon>https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/icon/docker.folder_icon.png</Icon>
+<IconFA>docker</IconFA>
+</Containers>

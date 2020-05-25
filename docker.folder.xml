@@ -3,7 +3,8 @@
 <PluginURL>https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/plugins/docker.folder.plg</PluginURL>
 <PluginAuthor>GuildDarts</PluginAuthor>
 <Support>https://forums.unraid.net/topic/89702-plugin-docker-folder/</Support>
-<Beta>True</Beta>
+<Project>https://github.com/GuildDarts/unraid-plugin-docker.folder</Project>
+<Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>Docker Folder</Name>
 <Description>
